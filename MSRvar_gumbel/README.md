@@ -19,8 +19,8 @@ See also: MSRvar_clayton, MSRvar_coptStudent, MSRvar_frank
 
 Usage: [VaR,theta]=var_gumbel(x,y,wx,wy,dofx,dofy);
 
-Input: wx,wy- weights of assets in the portfolio
+Input: wx,wy- weights of assets in the portfolio dofx,dofy- degrees of freedom of t-distributions of x,y- vectors of returns
 
-Output: theta- vector of Gumbel copula parameters
+Output: theta- vector of Gumbel copula parameters VaR- vector of Value at Risk
 
 ```
