@@ -9,13 +9,13 @@ Name of Quantlet: MSRevt3
 
 Published in: Measuring Statistical Risk
 
-Description: Produces a PP plot of the pseudo random variables with Gumbel distribution against theoretical Gumbel
+Description: Produces a PP plot of the pseudo random variables with Gumbel distribution against theoretical Gumbel distribution.
 
 Keywords: gumbel, random, distribution, extreme-value, pp-plot
 
 See also: MSRevt1, MSRevt2, MSRportfolio_est, MSRstdlogret, MSRtail_dep_normal, MSRtail_dep_tStudent, MSRvar_block_max, MSRvar_block_max_params, MSRvar_clayton_GARCHn
 
-Author: Barbara Choros-Tomczyk , Wolfgang K. Härdle 
+Author: Barbara Choros-Tomczyk , Wolfgang K. Härdle
 
 Output: PP plot.
 
