@@ -11,7 +11,7 @@ Published in: Measuring Statistical Risk
 
 Description: Plots daily log-returns of the BMW stock from 1992-01-01 to 2006-12-29.
 
-Keywords: financial, returns, time-series, log-returns, plot,
+Keywords: financial, returns, time-series, log-returns, plot, dax, stock-price
 
 See also: MSRsca_sie_vw, MSRsiemens_log_returns
 
