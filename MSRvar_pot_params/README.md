@@ -19,7 +19,7 @@ See also: MSRvar_pot
 
 Usage: MSRvar_pot_params
 
-Input: 
+Input: ksi- shape parameter bet- scale parameter u- threshold'
 
 Datafiles: beta_pot_Portf.txt, ksi_pot_Portf.txt, u_pot_Portf.txt
 
