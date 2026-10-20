@@ -9,7 +9,7 @@ Name of Quantlet: MSRportfolio_log_returns
 
 Published in: Measuring Statistical Risk
 
-Description: Plots daily log-returns of the equally weighted portfolio of Bayer, BMW and Siemens from 1992-01-01 to
+Description: Plots daily log-returns of the equally weighted portfolio of Bayer, BMW and Siemens from 1992-01-01 to 2006-12-29.
 
 Keywords: financial, graphical representation, log-returns, portfolio, returns, time-series
 
