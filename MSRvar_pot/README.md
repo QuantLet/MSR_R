@@ -21,6 +21,6 @@ Usage: [var,ksi,beta,u]=msr_var_pot(x,y,z);
 
 Input: x- vector of returns
 
-Output: var- Value at Risk
+Output: var- Value at Risk beta- scaling parameter ksi- shape parameter u- threshold
 
 ```
